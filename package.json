@@ -1,0 +1,14 @@
+{
+  "name": "tifod-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv-placeholder": "^1.4.4",
+    "eslint": "^7.16.0"
+  }
+}
